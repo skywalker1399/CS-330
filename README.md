@@ -1,20 +1,2 @@
 # CS-330
-
-How do I approach designing software?
-
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
-
-
-How do I approach developing programs?
-
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-
-How can computer science help me in reaching my goals?
-
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+My approach to designing software as well as programs is mainly based upon a starting idea. I start with what I want to create and then try to figure out what steps I need to do in order to create them. Throughout this project I started with a fan by typing out each aspect of it and placing each object from the fan in the correct place first. I was then able to use the position matrix of the fan in order to move it around without the pieces getting misaligned. I would often go back over my code and try and get rid of some redundant lines that we did not need to make it cleaner. This class helped me learn how to read through code that I did not write better. It helped me in learning how to follow the code to better understand the whole software. The ability to read and understand someone else’s code is a necessity in many jobs involved in computer programming. This class helped me progress my skills in C++ making me a better programmer by having a wide range of skills that I can use throughout my career.
